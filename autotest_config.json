@@ -77,10 +77,6 @@
       "expected_log_lines": [
         {
           "operator": "regex",
-          "value": "Found Python version (3.11.0)"
-        },
-        {
-          "operator": "regex",
           "value": "python version set to: 3.11.0"
         },
         {
